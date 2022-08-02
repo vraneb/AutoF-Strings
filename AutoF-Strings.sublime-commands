@@ -1,0 +1,11 @@
+[
+    {
+        "caption": "AutoF-Strings: Fix",
+        "command": "f_strings_fix"
+    },
+    {
+        "caption": "Preferences: AutoF-Strings Settings",
+        "command": "open_file",
+        "args": { "file": "${packages}/User/AutoF-Strings.sublime-settings" }
+    }
+]

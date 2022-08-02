@@ -1,0 +1,7 @@
+{
+    "enabled_syntaxes": [
+        "Python",
+        "Python3"
+    ],
+    "fix_on_save": true
+}
